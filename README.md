@@ -1,2 +1,2 @@
 # MLli
-A repo for ML journey
+A repo for my Machine Learning journey
